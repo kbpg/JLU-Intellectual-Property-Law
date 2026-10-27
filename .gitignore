@@ -1,0 +1,13 @@
+# 本地测试与下载的课程测试素材
+/fixtures/
+/ciptc-directory.test.cjs
+/ciptc-video-helper.test.cjs
+/node_modules/
+
+# 本地诊断及环境文件
+/ciptc-directory-diagnostic*.json
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
